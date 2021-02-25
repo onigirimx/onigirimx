@@ -8,7 +8,7 @@ My name is Rodrigo and I'm a Software Engineer.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on the creation and maintenance of a TMS (Transportation Management System) that allows companies to manage the delivery of their products along the supply chain.
+- 🔭 I’m currently working on the creation of a service that will allow the enterprises to have an efficient manage of all the providers' pending payments. 
 - 🌱 I’m currently learning React and NestJS. Also I'm learning Python with parallel projects 
 - 📫 How to reach me: ...
 - ⚡ Fun fact: I'm not an onigiri 🍙
